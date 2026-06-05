@@ -2,7 +2,6 @@
   "name": "formik-stepper-yup",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Sarjeel12.github.io/React-Formik-Stepper",
   "type": "module",
   "scripts": {
     "dev": "vite",
